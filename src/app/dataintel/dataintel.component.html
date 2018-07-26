@@ -1,0 +1,14 @@
+
+<div>
+  <h3>Add data</h3>
+  <form [formGroup]="datainf" >
+    <h4>Name: </h4>
+    <input type = "text" formControlName = "name" [value] = "dataint.name">
+    <br>
+    <h4>Age: </h4>
+    <input type="text" formControlName = "age" [value] = "dataint.age">
+    <br>
+    <br>
+    <button type="submit" (click) = "adddata()" > UPDATE </button>
+  </form>
+</div>
