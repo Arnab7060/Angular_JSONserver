@@ -1,0 +1,54 @@
+{
+  "mydatafile": [
+    {
+      "name": "Arnab Roy",
+      "age": "23",
+      "id": 1
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "age": "33",
+      "id": 2
+    },
+    {
+      "name": "Lionel Messi",
+      "age": "31",
+      "id": 3
+    },
+    {
+      "name": "Marco Asensio",
+      "age": "21",
+      "id": 4
+    },
+    {
+      "name": "Killian Mbappe",
+      "age": "19",
+      "id": 5
+    },
+    {
+      "name": "Mohammad Salah",
+      "age": "21",
+      "id": 6
+    },
+    {
+      "name": "Antoine Griezmann",
+      "age": "24",
+      "id": 7
+    },
+    {
+      "name": "Neymar Jr",
+      "age": "26",
+      "id": 8
+    },
+    {
+      "name": "Eden Hazard",
+      "age": "28",
+      "id": 9
+    },
+    {
+      "name": "Gabrial Jesus",
+      "age": "20",
+      "id": 10
+    }
+  ]
+}
